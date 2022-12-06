@@ -26,10 +26,10 @@
             ],
             "styles": [
               "src/styles.css",
-              "TFIMEC/node_modules/bootstrap/dist/css/bootstrap.css"
+              "node_modules/bootstrap/dist/css/bootstrap.css"
             ],
             "scripts": [
-              "TFIMEC/node_modules/bootstrap/dist/css/bootstrap.css"
+              "node_modules/bootstrap/dist/js/bootstrap.js"
             ]
           },
           "configurations": {
