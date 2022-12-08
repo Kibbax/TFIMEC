@@ -3,7 +3,7 @@
 }
 
 div{
-    background-color: #a1b5cb;
+    background-color: #7fffd4;
     text-align: center;
 }
 
@@ -11,9 +11,9 @@ div{
 @media (min-width: 576px){
     #fotoperfil{
         position: absolute;
-        width: 15%;
+        width: 13%;
         border-radius: 100%;
-        box-shadow: 3px 3px 3px grey;
+        box-shadow: 3px 3px 3px rgb(78, 27, 70);
         left: 3%;
         top: 250px;
     }
@@ -24,7 +24,7 @@ div{
         position: absolute;
         width: 30%;
         border-radius: 100%;
-        box-shadow: 3px 3px 3px grey;
+        box-shadow: 3px 3px 3px rgb(78, 27, 70);
         left: 35%;
         top: 250px;
     }
@@ -35,7 +35,7 @@ div{
         position: absolute;
         width: 30%;
         border-radius: 100%;
-        box-shadow: 3px 3px 3px grey;
+        box-shadow: 3px 3px 3px rgb(78, 27, 70);
         left: 35%;
         top: 250px;
     }
@@ -46,7 +46,7 @@ div{
         position: absolute;
         width: 30%;
         border-radius: 100%;
-        box-shadow: 3px 3px 3px grey;
+        box-shadow: 3px 3px 3px rgb(78, 27, 70);
         left: 35%;
         top: 250px;
     }
